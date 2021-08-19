@@ -1,4 +1,4 @@
-package com.example.institutocursos.Dto;
+/*package com.example.institutocursos.Dto;
 
 import lombok.Data;
 
@@ -12,4 +12,4 @@ public class AlumnoDto {
     private String name;
     private String lastname;
     private String documents;
-}
+}*/

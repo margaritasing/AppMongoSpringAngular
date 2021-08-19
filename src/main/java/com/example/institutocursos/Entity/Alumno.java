@@ -13,7 +13,7 @@ import java.util.List;
 @Document(collection = "alumnos")
 public class Alumno {
     @Id
-    private String alumno_id;
+    private String id;
     private String name;
     private String lastname;
     private String documents;
